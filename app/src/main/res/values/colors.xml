@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="transparent">#00000000</color>
+    
+    <color name="full_balck">#000000</color>
+    <color name="default_balck">#323232</color>
+    <color name="default_white">#ffffff</color>
+    <color name="default_grey_dark">#646464</color>
+    <color name="default_grey_light">#9B9B9B</color>
+    <color name="default_grey_d8">#d8d8d8</color>
+    <color name="default_grey_bg">#e1e1e1</color>
+    <color name="default_grey_bg_light">#f8f8f8</color>
+    
+    <color name="default_mask">#7f000000</color>
+    
+    <color name="default_orange">#ff6d00</color>
+    <color name="default_orange_hl">#FCE8D8</color>
+    <color name="default_blue">#2979ff</color>
+    <color name="default_yellow">#ffd740</color>
+    <color name="default_green">#7cb342</color>
+    <color name="default_red">#ff3300</color>
+</resources>
